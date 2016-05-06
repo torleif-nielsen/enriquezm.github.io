@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myles Enriquez</title>
+    <description>I&#39;m primarily a front-end web developer but have found my  passion for UX Design in the past year. I hope to push myself and get the  experience needed to become a professional UX Designer.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 06 May 2016 10:01:17 -0700</pubDate>
+    <lastBuildDate>Fri, 06 May 2016 10:01:17 -0700</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Accounting Club Site Redesign.</title>
+        <description>&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;I volunteered to redesign the University of Hawaii’s Accounting Club (AC) Website. Most of my friends were in the club and I was just about to take my first step into the world of web development. I knew nothing but HTML and some CSS, but I figured the only way to truly learn something was to just do it.&lt;/p&gt;
+
+&lt;h3 id=&quot;mission&quot;&gt;Mission&lt;/h3&gt;
+
+&lt;p&gt;Learn how to create a website using Wordpress. Give users of the AC website a better experience when trying to do everyday tasks (check events, membership questions, etc.)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;details&quot;&gt;Details&lt;/h3&gt;
+
+&lt;p&gt;And so it goes…&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 27 Apr 2016 06:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/projects/redesign/development/ux%20design/2016/04/27/accounting-club-site-redesign.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/projects/redesign/development/ux%20design/2016/04/27/accounting-club-site-redesign.html</guid>
+        
+        
+        <category>projects</category>
+        
+        <category>redesign</category>
+        
+        <category>development</category>
+        
+        <category>ux design</category>
+        
+      </item>
+    
+      <item>
+        <title>Vertical or Horizontal Navigation.</title>
+        <description>&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;I wanted to test out different types of navigation (horizontal/vertical) on a site.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Edit: This project was initially supposed to be horizontal and vertical navigation bars, but why limit it to just that?? Instead I extended the research and testing to all types of navigation.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;mission&quot;&gt;Mission&lt;/h3&gt;
+
+&lt;p&gt;Figure out, with some experiments, what type of navigation users enjoy using the most.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;details&quot;&gt;Details&lt;/h3&gt;
+
+&lt;p&gt;Obviously we all now that navigation on a website is important. We want our users to know where to go and help them get there as quick as possible. We want to make it intuitive and comfortable. So what I plan on doing is running a couple fun usability tests on some friends, family, and strangers just to get a general idea of what people like the most.&lt;/p&gt;
+
+&lt;h4 id=&quot;plan&quot;&gt;Plan&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;Research different types of vertiable and horizontal bars used now.&lt;/li&gt;
+  &lt;li&gt;Choose designs (at least 4).&lt;/li&gt;
+  &lt;li&gt;Give each user a task to do on each design.&lt;/li&gt;
+  &lt;li&gt;Record which type of navigation was the best.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’ll be going with a “think-aloud approach” so my judging of what is best and worst will be based on user feedback. This is in no way a professional type of test, it’s simply an experiment for myself.&lt;/p&gt;
+
+&lt;h4 id=&quot;research&quot;&gt;Research&lt;/h4&gt;
+
+&lt;p&gt;For the research I wanted to try all areas of navigation. I wanted to try different variations of Vertical and Horizontal navigation. It’s also 2016 so why not also work with designs that are more modern, simplistic, and fun right?&lt;/p&gt;
+
+&lt;h4 id=&quot;designs&quot;&gt;Designs&lt;/h4&gt;
+
+&lt;p&gt;After researching on the web, I found these 4 designs I wanted to work with. Of course, there were plenty more that I wanted to try out but then I would never finish this project.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Horizontal Navigation Design&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/production/images/post-images/2016-02-15-vertical-or-horizontal-navigation/img00.png&quot; alt=&quot;Design 1 Horizontal&quot; /&gt;
+&lt;a href=&quot;http://punkave.com/&quot;&gt;View Site Here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vertical Navigation Design&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/production/images/post-images/2016-02-15-vertical-or-horizontal-navigation/img01.png&quot; alt=&quot;Design 1 Vertical&quot; /&gt;
+&lt;a href=&quot;http://petershamnurseries.com/&quot;&gt;View Site Here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Big Navigation Design&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/production/images/post-images/2016-02-15-vertical-or-horizontal-navigation/img02.png&quot; alt=&quot;Design 1 Spread&quot; /&gt;
+&lt;a href=&quot;http://www.ariastudio.com.hk/&quot;&gt;View Site Here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Card Navigation Design&lt;/strong&gt;
+&lt;img src=&quot;/production/images/post-images/2016-02-15-vertical-or-horizontal-navigation/img03.png&quot; alt=&quot;Design 1 Card&quot; /&gt;
+&lt;a href=&quot;https://www.pinterest.com/designshack/&quot;&gt;View Site Here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;results&quot;&gt;Results&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;USER 1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Age:&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Avg. hours per day on web:&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Task was to:&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Feedback on Design A:&lt;/li&gt;
+  &lt;li&gt;Feedback on Design B:&lt;/li&gt;
+  &lt;li&gt;Feedback on Design C:&lt;/li&gt;
+  &lt;li&gt;Feedback on Design D:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;USER 2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Age:&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Avg. hours per day on web:&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Task was to:&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Feedback on Design A:&lt;/li&gt;
+  &lt;li&gt;Feedback on Design B:&lt;/li&gt;
+  &lt;li&gt;Feedback on Design C:&lt;/li&gt;
+  &lt;li&gt;Feedback on Design D:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;USER 3&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Age:&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Avg. hours per day on web:&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Task was to:&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Feedback on Design A:&lt;/li&gt;
+  &lt;li&gt;Feedback on Design B:&lt;/li&gt;
+  &lt;li&gt;Feedback on Design C:&lt;/li&gt;
+  &lt;li&gt;Feedback on Design D:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 27 Apr 2016 06:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/projects/usability/2016/04/27/vertical-or-horizontal-navigation.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/projects/usability/2016/04/27/vertical-or-horizontal-navigation.html</guid>
+        
+        
+        <category>projects</category>
+        
+        <category>Usability</category>
+        
+      </item>
+    
+      <item>
+        <title>Test blog post.</title>
+        <description>&lt;h1 id=&quot;test-blog-post&quot;&gt;Test blog post.&lt;/h1&gt;
+</description>
+        <pubDate>Wed, 27 Apr 2016 06:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/blog/test%20post/2016/04/27/test-post.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/test%20post/2016/04/27/test-post.html</guid>
+        
+        <category>dummy</category>
+        
+        
+        <category>blog</category>
+        
+        <category>test post</category>
+        
+      </item>
+    
+      <item>
+        <title>User Experience in Resume</title>
+        <description>&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+
+&lt;h3 id=&quot;mission&quot;&gt;Mission&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;details&quot;&gt;Details&lt;/h3&gt;
+</description>
+        <pubDate>Sun, 10 Jan 2016 05:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/projects/user%20experience/2016/01/10/user-experience-in-resume.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/projects/user%20experience/2016/01/10/user-experience-in-resume.html</guid>
+        
+        
+        <category>projects</category>
+        
+        <category>User Experience</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+published: true
+---
+
+{% for post in site.categories['projects'] %}
+<div class="col-xs-12 col-md-4">
+	<h1>{{ post.title }}<h1>
+	<p>{{ post.blurb }}</p>
+	<a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary">View Project</a>
+</div>
+{% endfor %}

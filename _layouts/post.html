@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="post container">
+
+  <header class="post-header row">
+  	<div class="col-xs-12 col-md-8 col-md-offset-2 text-center">
+  		<h1 class="post-title">{{ page.title }}</h1>
+      <p>Last Update: {{ page.date | date: '%B %d, %Y' }}</p>
+  	</div>
+  </header>
+
+  <hr />
+
+  <div class="post-content row">
+  	<div class="col-xs-12 col-md-8 col-md-offset-2">
+  		{{ content }}
+  	</div>
+  </div>
+
+</article>

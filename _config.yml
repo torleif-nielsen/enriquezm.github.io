@@ -1,0 +1,27 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Myles Enriquez
+email: enri.myles@gmail.com
+headline: Hello there! I'm Myles, a Front-end UX Developer
+description: >
+ I'm primarily a front-end web developer but have found my 
+ passion for UX Design in the past year. I hope to push myself and get the 
+ experience needed to become a professional UX Designer.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+copyright: Copyright 2016, Myles Enriquez
+
+# Build settings
+markdown: kramdown
+exclude: [development, bower_components, node_modules, .gitignore, gulpfile.js, package.json]
+
+# Social Media
+linkedin: https://www.linkedin.com/in/mylesenriquez
+github: https://www.github.com/enriquezm
