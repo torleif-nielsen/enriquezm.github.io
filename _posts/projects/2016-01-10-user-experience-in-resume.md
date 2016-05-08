@@ -10,7 +10,7 @@ tech:
 - Sketch3
 - Usability Testing
 - Paper Prototyping
-image: http://placehold.it/175x175
+image: /production/images/post-images/2016-01-10-user-experience-in-resume/feature-img.png
 ---
 ### Summary
 

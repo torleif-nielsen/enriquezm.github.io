@@ -9,7 +9,7 @@ categories:
 tech:
 - Sketch3
 - Usability Testing
-image: http://placehold.it/175x175
+image: /production/images/post-images/2016-02-15-vertical-or-horizontal-navigation/feature-img.png
 ---
 ### Summary
 

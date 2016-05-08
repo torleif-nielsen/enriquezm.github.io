@@ -13,7 +13,7 @@ tech:
 - PHP
 - HTML/CSS
 - Bootstrap 3
-image: http://placehold.it/175x175
+image: /production/images/post-images/2016-04-27-accounting-club-site-redesign/feature-img.png
 ---
 ### Summary
 
