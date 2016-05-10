@@ -32,7 +32,7 @@ layout: default
       <div class="project-block">
         <div class="row">
           <div class="col-xs-12 col-md-6 text-center">
-            <img class="img-responsive" src="{{ post.image }}" alt="{{ post.title }}" />
+            <a href="{{ post.url }}" title="View details about {{ post.title }}"><img class="img-responsive" src="{{ post.image }}" alt="{{ post.title }}" /></a>
           </div>
           <div class="col-xs-12 col-md-4">
             <h2>{{ post.title }}</h2>
@@ -64,6 +64,8 @@ layout: default
         <div class="col-xs-12 text-center">
           <h1>Statistics</h1>
         </div>
+      </div>
+      <div class="section-content row">
         <div class="col-xs-12 col-md-6 text-center">
           <div class="col-xs-12 col-md-8 col-md-offset-2">
             <h1>25</h1> 
@@ -73,7 +75,7 @@ layout: default
         <div class="col-xs-12 col-md-6 text-center">
           <div class="col-xs-12 col-md-8 col-md-offset-2">
             <h1>1</h1> 
-            <p>Usability Test ran on this site.</p>
+            <p>Usability Test ran on this site.<br />(I know, needs more.)</p>
           </div>
         </div>
       </div>
@@ -82,7 +84,23 @@ layout: default
   <!-- Contact Section -->
   <div id="contact-section" class="container-fluid">
     <div class="container">
-      
+      <div class="section-header row">
+        <div class="col-xs-12 text-center">
+          <hr />
+          <h1>Let's Chat!</h1>
+          <p>Honestly, the 2 best places to contact me.</p>
+        </div>
+      </div>
+      <div class="section-content row">
+        <div class="col-xs-12 col-md-6 text-center">
+          <i class="fa fa-envelope fa-2x" aria-hidden="true"></i>
+          <p>Email me at {{ site.email }}</p>
+        </div>
+        <div class="col-xs-12 col-md-6 text-center">
+          <i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
+          <p>Send me a direct message on my <a href="{{ site.linkedin }}">LinkedIn</a></p>
+        </div>
+      </div>
     </div>
   </div>
 </div>
