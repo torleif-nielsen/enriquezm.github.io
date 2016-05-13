@@ -6,7 +6,10 @@ layout: default
   <header class="post-header row">
   	<div class="col-xs-12 col-md-8 col-md-offset-2 text-center">
   		<h1 class="post-title">{{ page.title }}</h1>
-      <p>Last Update: {{ page.date | date: '%B %d, %Y' }}</p>
+      <p>Posted: {{ page.date | date: '%B %d, %Y' }}</p>
+      {% if page.update %}
+      <p>Last Update: {{ page.update | date: '%B %d, %Y' }}</p>
+      {% endif %}
   	</div>
   </header>
 
