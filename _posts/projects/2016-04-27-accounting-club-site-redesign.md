@@ -4,7 +4,7 @@ title: Accounting Club Site Redesign.
 date: 2016-04-27 13:00:00
 update: 2016-05-13 11:34:00
 blurb: I volunteered to help redesign and develop the University of Hawaii's Accounting Club Website.
-categories: 
+categories:
 - projects
 - redesign
 - development
@@ -51,7 +51,9 @@ Some identified problem areas on the website were: affordance is not clear in so
 - Tablet users: 2%
 - Mobile users: 10%
 
-#### 3. Concept Statement 
+Obviously, within this window we can see which devices most users use when viewing this site but the most important thing to me is that they are still using all types of devices. This means that we have to take responsive design a little more serious. Even though tablets received a 2% usage, that design should still feel complete.
+
+#### 3. Concept Statement
 
 - **Proposed Product Name:** Accounting Club Website
 - **Target Users:** Members, alumni, and professionals involved with Accounting Club
@@ -61,4 +63,3 @@ Some identified problem areas on the website were: affordance is not clear in so
 #### 4. Brainstorming
 
 Currently in the works.
-
