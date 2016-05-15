@@ -3,7 +3,7 @@ layout: post
 title: Vertical or Horizontal Navigation.
 date: 2016-04-27 13:00:00
 blurb: Through usability tests, I try to find which type of navigation I should use on a website.
-categories: 
+categories:
 - projects
 - Usability
 tech:
@@ -25,7 +25,7 @@ Figure out, with some experiments, what type of navigation users enjoy using the
 
 ### Details
 
-Obviously we all now that navigation on a website is important. We want our users to know where to go and help them get there as quick as possible. We want to make it intuitive and comfortable. So what I plan on doing is running a couple fun usability tests on some friends, family, and strangers just to get a general idea of what people like the most. 
+Obviously we all now that navigation on a website is important. We want our users to know where to go and help them get there as quick as possible. We want to make it intuitive and comfortable. So what I plan on doing is running a couple fun usability tests on some friends, family, and strangers just to get a general idea of what people like the most.
 
 #### Plan
 1. Research different types of vertiable and horizontal bars used now.
@@ -69,7 +69,7 @@ After researching on the web, I found these 4 designs I wanted to work with. Of 
 - **Age:**
 - **Avg. hours per day on web:**
 
-- **Task was to:** 
+- **Task was to:**
 - Feedback on Design A:
 - Feedback on Design B:
 - Feedback on Design C:
@@ -80,7 +80,7 @@ After researching on the web, I found these 4 designs I wanted to work with. Of 
 - **Age:**
 - **Avg. hours per day on web:**
 
-- **Task was to:** 
+- **Task was to:**
 - Feedback on Design A:
 - Feedback on Design B:
 - Feedback on Design C:
@@ -91,7 +91,7 @@ After researching on the web, I found these 4 designs I wanted to work with. Of 
 - **Age:**
 - **Avg. hours per day on web:**
 
-- **Task was to:** 
+- **Task was to:**
 - Feedback on Design A:
 - Feedback on Design B:
 - Feedback on Design C:
