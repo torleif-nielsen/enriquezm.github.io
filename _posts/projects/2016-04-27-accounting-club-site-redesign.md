@@ -32,7 +32,7 @@ Learn how to create a website using Wordpress. Give users of the AC website a be
 
 The focus of the product was to give members of Accounting Club a more convenient way of finding general info (ex. membership, events, opportunities). There was no budget, so therefore this project is a volunteered one and no money in involved.
 
-##### Questions Asked:
+**Questions Asked:**
 
 - What is the product?
 - Who will use it?
@@ -55,10 +55,7 @@ Obviously, within this window we can see which devices most users use when viewi
 
 #### 3. Concept Statement
 
-- **Proposed Product Name:** Accounting Club Website
-- **Target Users:** Members, alumni, and professionals involved with Accounting Club
-- **Description:** Accounting Club Website used for general information about the club.
-- **Problems that will be solved:** Finding events, info on membership, member status
+The proposed product name will be The Accounting Club Website Redesign. Target users are those who are mainly between the ages of 18-24 (college undergraduates). We will also have a secondary focus on alumni and professionals curious about the website. The Accounting Club Website Redesign will be a general restructuring of a website which will help solve the ease of finding out about events, information on membership, and membership status.
 
 #### 4. Brainstorming
 
