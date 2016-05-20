@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Story
+title: About
 date: 2016-05-06 8:53:00
 permalink: /about/
 ---
