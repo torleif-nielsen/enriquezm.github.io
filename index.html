@@ -4,15 +4,18 @@ layout: default
 
 <div class="home">
   <!-- Hero Section -->
-  <section id="hero-section" class="container-fluid">
-    <div class="hero-content container">
-      <div class="col-md-6 col-md-offset-6">
+  <section class="container-fluid section landing-section">
+    <div class="container landing-content">
+      <div class="col-md-6">
         <h1>{{ site.headline }}</h1>
         <hr class="hr-splitter" />
         <p>{{ site.description }}</p>
         <span><a href="{{ site.github }}" title="View my GitHub"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a></span>
         <span><a href="{{ site.linkedin }}" title="View my LinkedIn"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a></span>
         <span><a href="{{ "production/images/resume-v02.pdf" | prepend: site.baseurl }}" title="View my resume"><i class="fa fa-file-text-o fa-2x" aria-hidden="true"></i></a></span>
+      </div>
+      <div class="col-md-6 text-center">
+        <img src="{{ site.baseurl }}/production/images/landing-image.svg" alt="Coding and Wireframing">
       </div>
     </div>
   </section>
