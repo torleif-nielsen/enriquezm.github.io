@@ -1,13 +1,18 @@
 <!-- Header -->
-<div class="container site-header">
-  <ul>
-    <li class="home-link">
-      <a href="{{ page.siteurl }}/">Home</a>
-    </li>
-    {% for page in site.pages %}
-      {% if page.title %}
-      <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+<div class="container-fluid">
+  <div class="container site-header">
+    <div class="col-xs-12">
+      <ul>
+        <li class="home-link">
+          <a href="{{ page.siteurl }}/">Home</a>
+        </li>
+        {% for page in site.pages %}
+          {% if page.title %}
+          <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+        <li><a href="https://www.freecodecamp.com/enriquezm" title="Link to my FreeCodeCamp Account">FCC</a></li>
+      </ul>
+    </div>
+  </div>
 </div>
