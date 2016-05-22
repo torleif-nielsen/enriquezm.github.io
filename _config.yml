@@ -10,13 +10,13 @@ title: Myles Enriquez
 email: enri.myles@gmail.com
 headline: Hello there! I'm Myles, a Front-end UX Developer
 description: >
- I'm primarily a front-end web developer but have found my 
- passion for UX Design in the past year. I hope to push myself and get the 
+ I'm primarily a front-end web developer but have found my
+ passion for UX Design in the past year. I hope to push myself and get the
  experience needed to become a professional UX Designer.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-copyright: Copyright 2016, Myles Enriquez
+copyright: Myles Enriquez &copy; 2016
 
 # Build settings
 markdown: kramdown
