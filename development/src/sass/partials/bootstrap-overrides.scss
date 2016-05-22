@@ -1,8 +1,11 @@
 /* Overriding Primary Button */
 .btn-primary {
-	background-color: rgb(255, 82, 82);
+	background-color: $neon-green;
 	border-radius: 0px;
-	border-color: rgb(255, 82, 82);
+	border: none;
+	&:hover {
+		background-color: $neon-green-hover;
+	}
 }
 .btn-secondary {
 	color: rgb(92, 100, 118);
