@@ -15,6 +15,7 @@ tech:
 - HTML/CSS
 - Bootstrap 3
 image: /production/images/post-images/2016-04-27-accounting-club-site-redesign/feature-img.png
+published: false
 ---
 ### Summary
 

@@ -17,7 +17,8 @@ var options = ['-o2'];
 gulp.task('scripts', function(){
 	return gulp.src([
 		'development/src/js/jquery.min.js',
-		'development/src/js/bootstrap.min.js'
+		'development/src/js/bootstrap.min.js',
+		'development/src/js/main.js'
 		])
 		.pipe(concat('all.js'))
 		.pipe(rename({ suffix: '.min' }))
@@ -37,15 +38,16 @@ var sassOptions = {
 };
 gulp.task('scss', function() {
 	return gulp.src([
-		'development/src/sass/partials/typography.scss',
 		'development/src/sass/partials/variables.scss',
+		'development/src/sass/partials/typography.scss',
 		'development/src/sass/partials/mixins.scss',
 		'development/src/sass/partials/bootstrap-overrides.scss',
+		'development/src/sass/partials/media-queries.scss',
 		'development/src/sass/partials/custom-styling.scss'
 		])
 		.pipe(concat('all.scss'))
-		.pipe(sass(sassOptions).on('error', sass.logError))
 		.pipe(rename({ suffix: '.min' }))
+		.pipe(sass(sassOptions).on('error', sass.logError))
 		.pipe(gulp.dest('production/css'))
 });
 

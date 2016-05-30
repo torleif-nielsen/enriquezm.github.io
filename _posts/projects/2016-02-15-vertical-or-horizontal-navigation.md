@@ -10,6 +10,7 @@ tech:
 - Sketch3
 - Usability Testing
 image: /production/images/post-images/2016-02-15-vertical-or-horizontal-navigation/feature-img.png
+published: false
 ---
 ### Summary
 

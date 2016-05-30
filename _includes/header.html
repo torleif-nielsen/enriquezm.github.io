@@ -1,18 +1,22 @@
-<!-- Header -->
-<div class="container-fluid">
-  <div class="container site-header">
-    <div class="col-xs-12">
-      <ul>
-        <li class="home-link">
-          <a href="{{ page.siteurl }}/">Home</a>
-        </li>
-        {% for page in site.pages %}
-          {% if page.title %}
-          <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-        <li><a href="https://www.freecodecamp.com/enriquezm" title="Link to my FreeCodeCamp Account">FCC</a></li>
-      </ul>
-    </div>
-  </div>
-</div>
+<header class="cd-header">
+  <div class="cd-logo"><a href="{{ site.baseurl }}/">Myles Enriquez</a></div>
+
+  <a class="cd-primary-nav-trigger" href="#0">
+    <span class="cd-menu-text">Menu</span><span class="cd-menu-icon"></span>
+  </a> <!-- cd-primary-nav-trigger -->
+</header>
+
+<nav>
+  <ul class="cd-primary-nav">
+    <li class="cd-label">Pages</li>
+
+    {% for page in site.pages %}
+      {% if page.title %}
+      <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+    <li class="cd-label">Get in touch</li>
+    <span><a href="{{ site.github }}" title="View my GitHub"><i class="fa fa-github fa-3x" aria-hidden="true"></i></a></span>
+    <span><a href="{{ site.linkedin }}" title="View my LinkedIn"><i class="fa fa-linkedin-square fa-3x" aria-hidden="true"></i></a></span>
+  </ul>
+</nav>
