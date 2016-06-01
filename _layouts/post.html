@@ -12,11 +12,16 @@ layout: default
       {% endif %}
   	</div>
   </header>
-  
+
   <div class="post-content row">
   	<div class="col-xs-12 col-md-8 col-md-offset-2">
   		{{ content }}
   	</div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12 col-md-8 col-md-offset-2">
+      {% include disqus-comments.html %}
+    </div>
   </div>
 
 </article>
