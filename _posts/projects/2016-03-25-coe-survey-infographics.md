@@ -46,6 +46,6 @@ I also made sure to give percentage values a big font size. The main thing a use
 
 ## Conclusion
 
-I learned a lot from this project. Most of it had to do with design. I never messed with design because I'm mainly a developer but it was fun and actually refreshing. I learned some topics such as [Gestalt Principles](http://www.creativebloq.com/graphic-design/gestalt-theory-10134960). Some things I would probably change would be to first sketch the infographic. I wasted a lot of time moving things here and there without have a clear idea of what I needed or wanted.
+I learned a lot from this project. Most of it had to do with design. I never messed with design because I'm mainly a developer but it was fun and actually refreshing. I learned some topics such as [Gestalt Principles](http://www.creativebloq.com/graphic-design/gestalt-theory-10134960). Some things I would probably change would be to first sketch the infographic. I wasted a lot of time moving things here and there without having a clear idea of what I needed or wanted.
 
 If I were to sketch (maybe on a white board), things would be a lot easier to modify until the design felt ready to move into the actual digital designing phase.
