@@ -6,7 +6,7 @@ date: 2016-05-26 22:00:00
 blurb: I created a JavaScript powered desktop app using NW.js.
 categories:
 - projects
-- development
+- Development
 tech:
 - NW.js
 - JavaScript
