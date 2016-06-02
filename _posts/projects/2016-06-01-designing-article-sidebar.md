@@ -39,7 +39,7 @@ Gives the user a little more information as to what heading is selected. Usually
 
 Original work by [Daniela Alves](https://dribbble.com/shots/344377-Jobs-Timeline-WIP-v2)
 
-####67
+#### Reason for choosing:
 
 I thought that maybe using a timeline type of list would be different, but different isn't always better. In this screenshot we can see that the longer the duration, the bigger the gap in the timeline. I was thinking we could use this same principle but instead apply it to paragraphs. The longer a paragraph is for a given heading, the bigger the gap on the side list. This would then give the user an idea of how much, in that section of the article, there is to read. But what if, the paragraph is gigantic? Not likely to happen but you should always look at worst case.
 
