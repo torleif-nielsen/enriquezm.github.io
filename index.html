@@ -35,8 +35,10 @@ layout: default
             <div class="category-header {% if cat == 'Development' %}development-cat{% else %}design-cat{% endif %}">{{ cat }}</div>
             {% endfor %}
           {% endif %}
-          <h3>{{ post.title }}</h3>
-          <p>{{ post.blurb }}</p>
+          <div class="project-box-content">
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.blurb }}</p>
+          </div>
           <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary">View Project</a>
         </div>
       </div>
