@@ -13,7 +13,7 @@ published: true
 			<div class="project-box">
 				{% if post.categories %}
 					{% for cat in post.categories offset:1 %}
-					<div class="category-header {% if cat == 'Development' %}development-cat{% else %}design-cat{% endif %}">{{ cat }}</div>
+					<div class="category-header {% if cat == 'Development' %}development-cat{% elsif cat == 'Concept' %}concept-cat{% else %}design-cat{% endif %}">{{ cat }}</div>
 					{% endfor %}
 				{% endif %}
 				<div class="project-box-content">
