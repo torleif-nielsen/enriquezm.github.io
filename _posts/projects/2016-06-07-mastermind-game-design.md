@@ -34,10 +34,14 @@ With this system we can see what needs to be done, what is being done, and what 
 
  **Red = High Priority, Yellow = Medium Priority, Green = Low Priority**.
 
-#### 2. Creating User Flows
+#### 2. Creating the Blueprint
 
-Since I was handling the user experience and user interface. I figured I had to know the ins and outs of this game. I've played it many times, but still, I needed to see it from all angles. I figured I would create a ```user flow``` to better capture all possible routes within the game.
+Since I was handling the user experience and user interface. I figured I had to know the ins and outs of this game. I've played it many times, but still, I needed to see it from all angles. I figured I would create a ```blueprint``` to better capture all possible routes within the game.
 
 This was done by **reading** about the game, **playing** the actual board game, **playing** any online games already present, and getting a feel for it.
 
 If you want to understand the game, you have to become the game. (Sounds like something you would hear from a martial art movie.)
+
+Below is a basic ```blueprint``` for a player going against the computer:
+
+![]({{ site.baseurl }}/production/images/post-images/2016-06-07-mastermind-game-design/img01.png)
