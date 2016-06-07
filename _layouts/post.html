@@ -19,9 +19,39 @@ layout: default
   </header>
 
   <div id="post-content" class="post-content row">
+    {% if page.project-status %}
+    <div class="col-xs-12 col-md-8 col-md-offset-2">
+      <h3>At a glance:</h3>
+    </div>
+    <div class="col-xs-12 col-md-8 col-md-offset-2">
+      <div class="col-xs-12 col-md-6 text-center">
+        <div class="project-glance project-status">
+        <h5>Status: </h5>{{ page.project-status }}
+        </div>
+      </div>
+      {% endif %}
+      {% if page.project-github %}
+      <div class="col-xs-12 col-md-6 text-center">
+        <a href="{{ page.project-github}}">
+        <div class="project-glance project-github">
+        <h5>Source Code: </h5>
+        {{ page.project-github }}
+        </div>
+        </a>
+      </div>
+      {% endif %}
+    </div>
   	<div class="col-xs-12 col-md-8 col-md-offset-2">
   		{{ content }}
   	</div>
+    <!-- Unfinished Projects -->
+    {% if page.project-status == 'In progress' %}
+    <div class="col-xs-12 col-md-8 col-md-offset-2">
+      <div class="project-in-progress text-center">
+        <h4>Sorry, this project is still in the works! Whooping up some awesome documentation at the moment. Stay tuned to see the complete project.</h4>
+      </div>
+    </div>
+    {% endif %}
   </div>
   {% if page.title != 'About' %}
   <div class="row">
