@@ -12,6 +12,7 @@ tech:
 - Illustrator
 - Photoshop
 published: true
+project-status: Finished
 ---
 
 # Summary

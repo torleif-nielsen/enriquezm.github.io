@@ -6,16 +6,15 @@ update: 2016-05-13 11:34:00
 blurb: I volunteered to help redesign and develop the University of Hawaii's Accounting Club Website.
 categories:
 - projects
-- redesign
-- development
-- ux design
+- Development
 tech:
 - Wordpress
 - PHP
 - HTML/CSS
 - Bootstrap 3
-image: /production/images/post-images/2016-04-27-accounting-club-site-redesign/feature-img.png
 published: false
+project-status: In progress
+project-github: https://github.com/enriquezm/accounting_club_website
 ---
 ### Summary
 

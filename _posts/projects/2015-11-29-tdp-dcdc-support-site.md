@@ -14,6 +14,8 @@ tech:
 - JavaScript
 - Ruby
 published: false
+project-status: Finished
+project-github: https://github.com/uhm-coe/assist
 ---
 
 # Summary

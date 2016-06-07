@@ -10,6 +10,7 @@ categories:
 tech:
 - Sketch3
 published: true
+project-status: Finished
 ---
 
 # Summary

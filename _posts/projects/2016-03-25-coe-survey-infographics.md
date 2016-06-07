@@ -10,6 +10,7 @@ categories:
 tech:
 - Illustrator
 published: true
+project-status: Finished
 ---
 
 # Summary

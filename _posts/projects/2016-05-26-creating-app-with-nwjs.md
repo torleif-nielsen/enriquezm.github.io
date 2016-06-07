@@ -11,6 +11,8 @@ tech:
 - NW.js
 - JavaScript
 published: true
+project-status: Finished
+project-github: https://github.com/enriquezm/nwjs-playground
 ---
 
 # Summary
