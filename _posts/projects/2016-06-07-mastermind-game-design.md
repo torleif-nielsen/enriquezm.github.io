@@ -45,3 +45,11 @@ If you want to understand the game, you have to become the game. (Sounds like so
 Below is a basic ```blueprint``` for a player going against the computer:
 
 ![]({{ site.baseurl }}/production/images/post-images/2016-06-07-mastermind-game-design/img01.png)
+
+After further analyzation, I was able to create phase 2 blueprints.
+
+![]({{ site.baseurl }}/production/images/post-images/2016-06-07-mastermind-game-design/img02.png)
+
+As you can see, the design got a little more complex. This was because the logical side of the game was becoming more clear. Now keep in mind, this is just a starting point to the designing game and is used as a reference. Think of this ```blueprint``` as a foundation of how the game will be. More things will be added and some might even be removed.
+
+Creating this ```blueprint``` will help the developer when it comes to writing the actual code and will save large amounts of time.
