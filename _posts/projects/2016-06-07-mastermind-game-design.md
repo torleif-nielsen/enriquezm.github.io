@@ -50,6 +50,14 @@ After further analyzation, I was able to create phase 2 blueprints.
 
 ![]({{ site.baseurl }}/production/images/post-images/2016-06-07-mastermind-game-design/img02.png)
 
-As you can see, the design got a little more complex. This was because the logical side of the game was becoming more clear. Now keep in mind, this is just a starting point to the designing game and is used as a reference. Think of this ```blueprint``` as a foundation of how the game will be. More things will be added and some might even be removed.
+As you can see, the design got a little more complex. This was because the logical side of the game was becoming more clear. Now keep in mind, this is just a starting point to designing the game and is used as a reference. Think of this ```blueprint``` as a foundation of how the game will be. More things will be added and some might even be removed as the team meets together to talk it over.
 
 Creating this ```blueprint``` will help the developer when it comes to writing the actual code and will save large amounts of time.
+
+#### 3. Wireframing
+
+After building the ```blueprints``` it was time to move onto building ```wireframes```. I wanted to go with a minimal approach:
+
+![]({{ site.baseurl }}/production/images/post-images/2016-06-07-mastermind-game-design/img03.png)
+
+The wireframe is still at its early stage. We still plan to test on at least 5 users with [Robert Hoekman Jr](http://www.rhjr.net/)'s "Iterative Usability Testing" method as described in his book [Experience Required](https://www.amazon.com/Experience-Required-become-leader-regardless/dp/0134398270?ie=UTF8&keywords=Robert%20Hoekman&qid=1444068957&ref_=sr_1_5&s=books&sr=1-5). With this method we can save time, time that will be vital for development.
