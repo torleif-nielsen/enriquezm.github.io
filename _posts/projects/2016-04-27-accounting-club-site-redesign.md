@@ -12,7 +12,7 @@ tech:
 - PHP
 - HTML/CSS
 - Bootstrap 3
-published: false
+published: true
 project-status: In progress
 project-github: https://github.com/enriquezm/accounting_club_website
 ---
@@ -20,43 +20,8 @@ project-github: https://github.com/enriquezm/accounting_club_website
 
 I volunteered to redesign the University of Hawaii's Accounting Club (AC) Website. Most of my friends were in the club and I was just about to take my first step into the world of web development. I knew nothing but HTML and some CSS, but I figured the only way to truly learn something was to just do it.
 
-### Mission
+### Objective
 
 Learn how to create a website using Wordpress. Give users of the AC website a better experience when trying to do everyday tasks (check events, membership questions, etc.)
 
 <hr />
-
-### Details
-
-#### 1. Stakeholder Interview
-
-The focus of the product was to give members of Accounting Club a more convenient way of finding general info (ex. membership, events, opportunities). There was no budget, so therefore this project is a volunteered one and no money in involved.
-
-**Questions Asked:**
-
-- What is the product?
-- Who will use it?
-- Which customers and users are most important to the business?
-- What worries you about this project?
-- How will you define success for this project?
-- Who do you see as your biggest competitor?
-- How to you expect to differentiate this product?
-
-#### 2. Web Analytics
-
-Some identified problem areas on the website were: affordance is not clear in some instances. Too many redirects on one page. Color scheme and theme is not well put together and doesn't seem consistent. After some recordings from Hotjar Analytics, I came up with the following:
-
-- total of 905 users in window
-- Desktop users: 88%
-- Tablet users: 2%
-- Mobile users: 10%
-
-Obviously, within this window we can see which devices most users use when viewing this site but the most important thing to me is that they are still using all types of devices. This means that we have to take responsive design a little more serious. Even though tablets received a 2% usage, that design should still feel complete.
-
-#### 3. Concept Statement
-
-The proposed product name will be The Accounting Club Website Redesign. Target users are those who are mainly between the ages of 18-24 (college undergraduates). We will also have a secondary focus on alumni and professionals curious about the website. The Accounting Club Website Redesign will be a general restructuring of a website which will help solve the ease of finding out about events, information on membership, and membership status.
-
-#### 4. Brainstorming
-
-Currently in the works.

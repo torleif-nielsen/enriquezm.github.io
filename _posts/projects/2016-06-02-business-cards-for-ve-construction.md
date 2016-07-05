@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Designing Business Cards for VE Construction, LLC.
+title: Business Cards for VE Construction, LLC.
 date: 2016-06-01 09:07:00
 # update: 2016-05-13 11:34:00
-blurb: I never created business cards before but thought I could give it a shot.
+blurb: Designed business cards for a construction/landscaping company.
 categories:
 - projects
 - Design

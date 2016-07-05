@@ -3,7 +3,7 @@ layout: post
 title: TDP/DCDC Support Site
 date: 2016-03-25 08:00:00
 # update: 2016-05-13 11:34:00
-blurb: Developed the TDP/DCDC Support Site at the University of Hawaii at Manoa.
+blurb: Support site for DCDC/TDP at the University of Hawaii at Manoa College of Education
 categories:
 - projects
 - Development

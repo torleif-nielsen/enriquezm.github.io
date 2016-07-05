@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Designing the Mastermind Board Game for Web
+title: Mastermind Board Game for Web
 date: 2016-06-07 13:42:00
 # update: 2016-05-13 11:34:00
-blurb: Designing the Mastermind Board Game for the digital web.
+blurb: A digitalized board game consisting of code breaking.
 categories:
 - projects
 - Design

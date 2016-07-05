@@ -3,7 +3,7 @@ layout: post
 title: Creating My Article Sidebar Part 1
 date: 2016-06-01 09:07:00
 # update: 2016-05-13 11:34:00
-blurb: I wanted to enhance my article viewing experience, so I decided to design a sidebar.
+blurb: Designing a sidebar for article pages within my portfolio posts.
 categories:
 - projects
 - Design

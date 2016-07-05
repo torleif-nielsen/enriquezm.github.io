@@ -3,7 +3,7 @@ layout: post
 title: Desktop app with NW.js.
 date: 2016-05-26 22:00:00
 # update: 2016-05-13 11:34:00
-blurb: I created a JavaScript powered desktop app using NW.js.
+blurb: A basic computer specification information tool built with NW.js.
 categories:
 - projects
 - Development

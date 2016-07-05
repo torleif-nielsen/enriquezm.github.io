@@ -3,7 +3,7 @@ layout: post
 title: Open Source Hub
 date: 2016-06-03 15:11:00
 # update: 2016-05-13 11:34:00
-blurb: There are many out there, but some lack a way to get involved.
+blurb: A platform to host all open source projects and roles that each project is looking for.
 categories:
 - projects
 - Concept

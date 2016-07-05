@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Designing Survey Infographics
+title: Survey Infographics
 date: 2016-03-25 08:00:00
 # update: 2016-05-13 11:34:00
-blurb: Designed and created infographics for The College of Education at the University of Hawaii.
+blurb: Infographics displaying the College's Teacher Education Program statistics.
 categories:
 - projects
 - Design
